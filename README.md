@@ -1,4 +1,5 @@
 # twine
+[![wercker status](https://app.wercker.com/status/7798e32da599f66f46af6c7e4a595e07/m "wercker status")](https://app.wercker.com/project/bykey/7798e32da599f66f46af6c7e4a595e07)
 
 Some string similarity helpers written in Go.
 
@@ -62,4 +63,3 @@ func main() {
 	err := tr.Delete("abc")
 }
 ```
-[![wercker status](https://app.wercker.com/status/7798e32da599f66f46af6c7e4a595e07/m "wercker status")](https://app.wercker.com/project/bykey/7798e32da599f66f46af6c7e4a595e07)
